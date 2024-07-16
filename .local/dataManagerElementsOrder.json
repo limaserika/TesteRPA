@@ -124,11 +124,11 @@
       "AddedNamespaces": null
     },
     {
-      "Path": "wfEnvioEmail.xaml",
+      "Path": "Workflows/wfEnvioEmail.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [],
       "ArgumentsSectionElementsOrder": [
-        "in_ssPassword",
+        "in_sPassword",
         "in_sEmail"
       ],
       "ConstantsSectionElementsOrder": [],
