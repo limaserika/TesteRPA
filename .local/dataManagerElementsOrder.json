@@ -127,7 +127,10 @@
       "Path": "wfEnvioEmail.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [],
-      "ArgumentsSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "in_ssPassword",
+        "in_sEmail"
+      ],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
     }
